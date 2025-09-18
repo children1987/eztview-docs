@@ -28,11 +28,7 @@ EZtView — 智慧能耗管理应用平台，让智慧用能触手可及。[立�
 
 ![](index/image4.png)
 
-点击
-
-![](index/image5.png)
-
-符号，设置项目信息，包括给项目设定标题，项目重命名。
+点击![](index/image5.png)按钮，设置项目信息，包括给项目设定标题，项目重命名。
 
 ![](index/image6.png)
 
