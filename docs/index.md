@@ -1,4 +1,4 @@
-# EZtView 文档中心
+# EZtView 快速入门
 
 EZtView — 更加简单便捷的使用您的物联网设备。[立即登录](https://www.eztview.com/)
 
